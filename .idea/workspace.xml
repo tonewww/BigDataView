@@ -6,6 +6,10 @@
   <component name="ChangeListManager">
     <list default="true" id="fdf00bf2-d3fc-40cf-ad15-27f024653649" name="更改" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/view.html" beforeDir="false" afterPath="$PROJECT_DIR$/view.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/login-web/login_06.html" beforeDir="false" afterPath="$PROJECT_DIR$/web/login-web/login_06.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/login-web/login_31.html" beforeDir="false" afterPath="$PROJECT_DIR$/web/login-web/login_31.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,7 +29,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="D:\phpEnv\php\php-8.1\php.exe" />
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="D:\phpEnv\php\php-8.4\php.exe" />
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 1
 }</component>
@@ -71,6 +75,10 @@
       <workItem from="1749715196170" duration="781000" />
       <workItem from="1750333108320" duration="602000" />
       <workItem from="1750745667833" duration="1198000" />
+      <workItem from="1752637911142" duration="2340000" />
+      <workItem from="1752643205934" duration="358000" />
+      <workItem from="1752643591875" duration="597000" />
+      <workItem from="1755567721174" duration="1375000" />
     </task>
     <servers />
   </component>
